@@ -53,7 +53,7 @@ The public were told it was a faulty batch of tapes and offered replacements, bu
 replacements were the same version. Gibson wanted to fix the bug, but Dave Lawson wanted him
 on *Bandersnatch* instead.
 
-The clue that cracked it came from **Martin Scott**, who worked with John. He commented on the
+The clue that cracked it came from **Martin Linklater**, who worked with John. He commented on the
 thread where Tony was posting progress:
 
 > "The crash was always at the end of the battle."
@@ -334,7 +334,7 @@ cd tools && ./setup.sh /path/to/STONKERS.TAP
 
 ## Thanks
 
-To Martin Scott for the clue that cracked it. To Tony Weston for asking, and for not taking
+To Martin Linklater for the clue that cracked it. To Tony Weston for asking, and for not taking
 "the bridge code looks fine" for an answer. To Richard Dymond for SkoolKit, which made the
 emulator, the disassembler and the tracing possible. And to Spectrum Computing, and the
 preservation community generally, for keeping these games, and the stories behind them,
